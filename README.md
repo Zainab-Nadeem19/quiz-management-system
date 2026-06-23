@@ -1,2 +1,2 @@
 # quiz-management-system
-this project is console based quiz management system it uses object oriented programming concepts such as classes,inheritance,polymorphism,constructor and virtual function
+this project is DSAbase quiz system in c++in which uses linked list(dynamic data structure) ,recurssion,sorting algorithm,input validation,condition and looping logic and pointers.
